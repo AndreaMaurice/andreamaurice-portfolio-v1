@@ -63,7 +63,7 @@ const Contact = () => {
         />
         {/* <label>Email Subject</label> */}
         <input
-          type="email"
+          type="text"
           name="subject"
           className="h-10 px-4 bg-slate-100 mb-3 mt-1 placeholder:text-slate-600"
           placeholder="Subject"
